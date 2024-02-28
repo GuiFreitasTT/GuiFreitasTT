@@ -19,4 +19,4 @@
 
 ### Studying in this moment:
 ![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00)&nbsp;
