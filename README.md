@@ -7,7 +7,7 @@
 </div>
 
 ### Main skills:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00)&nbsp;
 ![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
